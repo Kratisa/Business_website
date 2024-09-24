@@ -5,3 +5,7 @@ Welcome to Techno-Hub, where innovation meets excellence in the world of digital
 Website is built with the following key technologies: HTML5 & CSS3
 Bootstrap 5
 AOS (Animate On Scroll)
+
+
+
+Link to the site https://kratisa-business-portfolio.netlify.app/
